@@ -1,0 +1,25 @@
+header {
+  width: 37.5rem;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+h4 {
+  font-size: 1.4rem;
+  color: var(--primary-color);
+}
+
+h1 {
+  font-size: 3.4rem;
+  color: var(--headline);
+  line-height: 130%;
+}
+
+p {
+  font-size: 1.8rem;
+  color: var(--paragraph);
+}
+
+button {
+  background: var(--primary-color);
+}
